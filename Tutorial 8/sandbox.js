@@ -1,4 +1,4 @@
-const getTodos = (resources) => {
+const getTodos = (/*callback, */ resources) => {
   return new Promise((resolve, reject) => {
     const request = new XMLHttpRequest();
 
