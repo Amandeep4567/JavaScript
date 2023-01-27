@@ -26,5 +26,4 @@ SetTimeOut(()=>{<br>
      &nbsp; &nbsp; console.log("callback function fired"); &nbsp; &nbsp; //this is a Asynchronous function<br>
 },4000);<br>
 console.log(3);<br>
-console.log(4);
-*
+console.log(4);_*
