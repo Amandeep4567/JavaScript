@@ -16,5 +16,5 @@ Javascript being called a <b>Single threaded</b> language.<br>
 **_As we know that in synchronous JS one statement executes than it move to another statement to execute , and if the statement 2 is very long the statement 2 will take much time to execute the code, which block the rest of the statement/code to execute which takes so much time to execute, so this is a downfall of synchronous code and this is where asynchronous code comes into play to help us out._**
 
 Async to the Rescue...
-**start something now and finish it later.**
+**start something now and finish it later.**<br>
 <img src="https://user-images.githubusercontent.com/90441055/215195079-7c7e86c8-7fcb-4c8d-af40-a0fd33d143c3.png" width="280" height="350">
