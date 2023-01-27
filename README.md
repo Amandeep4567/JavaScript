@@ -22,8 +22,8 @@ Async to the Rescue...<br>
 **Example:**<br>
 *_console.log(1);<br>
 console.log(2);<br>
-SetTimeOut(()=>{<br>  // this is a Asynchronous function
-     &nbsp; &nbsp; console.log("callback function fired");<br>
+SetTimeOut(()=>{<br>
+     &nbsp; &nbsp; console.log("callback function fired"); this is a Asynchronous function<br>
 },4000);<br>
 console.log(3);<br>
 console.log(4);
