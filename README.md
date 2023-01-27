@@ -5,8 +5,8 @@ Govern how we perform tasks which take some time to complete which means "Start 
 Asynchronous code is code that can start now and then finish later.
 
 JavaScript can run one statement at a time
-console.log(1);
-console.log(2);
+console.log(1);<br>
+console.log(2);<br>
 console.log(3);
 
 Javascript being called a <b>Single threaded</b> language.
