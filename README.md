@@ -19,11 +19,11 @@ Async to the Rescue...<br>
 **start something now and finish it later.**<br>
 <img src="https://user-images.githubusercontent.com/90441055/215195079-7c7e86c8-7fcb-4c8d-af40-a0fd33d143c3.png" width="280" height="350">
 
-**Example:**
-console.log(1);
-console.log(2);
-SetTimeOut(()=>{
-    console.log("callback function fired");
-},4000);
-console.log(3);
+**Example:**<br>
+console.log(1);<br>
+console.log(2);<br>
+SetTimeOut(()=>{<br>
+    console.log("callback function fired");<br>
+},4000);<br>
+console.log(3);<br>
 console.log(4);
