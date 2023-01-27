@@ -11,4 +11,4 @@ JavaScript can run one statement at a time <br>
 > console.log(4);
 
 Javascript being called a <b>Single threaded</b> language.<br>
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/90441055/215188641-3c5d1d3f-ebce-4aa7-a5c0-aab40f762518.png)" width="100" height="100">
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/90441055/215188641-3c5d1d3f-ebce-4aa7-a5c0-aab40f762518.png)" width="300" height="300">
