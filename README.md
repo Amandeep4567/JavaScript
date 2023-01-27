@@ -10,5 +10,5 @@ JavaScript can run one statement at a time <br>
 > console.log(3);<br>
 > console.log(4);
 
-Javascript being called a <b>Single threaded</b> language.
+Javascript being called a <b>Single threaded</b> language.<br>
 ![threading](https://user-images.githubusercontent.com/90441055/215188641-3c5d1d3f-ebce-4aa7-a5c0-aab40f762518.png | width=100)
