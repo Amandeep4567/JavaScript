@@ -13,4 +13,4 @@ JavaScript can run one statement at a time <br>
 Javascript being called a <b>Single threaded</b> language.<br>
 <img src="https://user-images.githubusercontent.com/90441055/215188641-3c5d1d3f-ebce-4aa7-a5c0-aab40f762518.png" width="280" height="350">
 
-As we know that in synchronous JS one statement executes than it move to another statement to execute , and if the statement 2 is very long the statement 2 will take much time to execute the code, which block the rest of the statement/code to execute which takes so much time to execute, so this is a downfall of synchronous code and this is where asynchronous code comes into play to help us out.
+*As we know that in synchronous JS one statement executes than it move to another statement to execute , and if the statement 2 is very long the statement 2 will take much time to execute the code, which block the rest of the statement/code to execute which takes so much time to execute, so this is a downfall of synchronous code and this is where asynchronous code comes into play to help us out.*
